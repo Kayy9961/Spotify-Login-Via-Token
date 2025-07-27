@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Spotify Login Token",
+  "version": "1.0",
+  "description": "Inicia sesión en Spotify con tu token Token.",
+  "permissions": ["cookies", "tabs", "scripting", "storage"],
+  "host_permissions": ["https://*.spotify.com/"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "icons": {
+    "128": "icon.png"
+  }
+}
