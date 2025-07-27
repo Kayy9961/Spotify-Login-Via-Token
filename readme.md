@@ -41,9 +41,7 @@ Ideal para usuarios avanzados o testers que quieren evitar el proceso de login t
 - Developers que prueban la WebApp de Spotify
 - Gente que maneja varias cuentas o sesiones
 
-## 📸 Capturas de pantalla (opcional)
-
-_Si quieres puedes agregar imágenes de la interfaz aquí_
+<img width="344" height="271" alt="image" src="https://github.com/user-attachments/assets/02b12b53-ed88-4436-a32a-7c9f96fdb783" />
 
 ## ✨ Autor
 
